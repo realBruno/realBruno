@@ -4,4 +4,4 @@ My name is <strong>Bruno Fernandes</strong>, I am a cybersecurity enthusiast and
 
 For now, I am studying web-related technologies, such as HTML, CSS, JS and so on.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,python)](https://skillicons.dev)

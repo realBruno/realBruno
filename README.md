@@ -8,10 +8,3 @@ For now, I am focusing
 I am really into topics of 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,cpp,python)](https://skillicons.dev)
-
-<style>
-  strong{
-    color: aqua;
-  }
-  
-</style>

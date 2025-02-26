@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    font-family: "Rubik", serif;
+}
+
+main {
+    min-height: 100vh;
+    min-height: 100svh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+img {
+    max-width: 500px;
+    height: auto;
+}
+
+p {
+    font-size: 1.5rem;
+    font-weight: 500;
+}

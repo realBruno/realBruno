@@ -11,16 +11,6 @@ body {
   min-height: 100svh;
 }
 
-header {
-  padding: 1rem;
-  text-align: center;
-}
-
-header > img {
-  width: 9.375rem;
-  margin: 0 0.625rem;
-}
-
 main {
   flex-grow: 1;
   display: flex;
@@ -42,19 +32,4 @@ main {
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
-}
-
-footer {
-  text-align: center;
-  padding: 1rem;
-}
-
-footer > p > a {
-  text-decoration: none;
-  color: grey;
-  font-style: italic;
-}
-
-footer > p > a:hover {
-  border-bottom: 0.125rem solid black;
 }
